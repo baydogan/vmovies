@@ -1,0 +1,242 @@
+{
+  "users": [
+    {
+      "userName": "baydogan",
+      "email": "baydogan@baydogan",
+      "password": "9c9958a75d078afaa5cd76b4a74f3fcccbedca78",
+      "id": "668857bc-02c5-459a-81b2-7615b05fa773",
+      "watchList": [
+        {
+          "adult": false,
+          "backdrop_path": "/dK12GIdhGP6NPGFssK2Fh265jyr.jpg",
+          "genre_ids": [
+            28,
+            35,
+            80,
+            53
+          ],
+          "id": 512195,
+          "original_language": "en",
+          "original_title": "Red Notice",
+          "overview": "An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.",
+          "popularity": 3078.955,
+          "poster_path": "/lAXONuqg41NwUMuzMiFvicDET9Y.jpg",
+          "release_date": "2021-11-04",
+          "title": "Red Notice",
+          "video": false,
+          "vote_average": 6.8,
+          "vote_count": 2378
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/cinER0ESG0eJ49kXlExM0MEWGxW.jpg",
+          "genre_ids": [
+            28,
+            12,
+            14
+          ],
+          "id": 566525,
+          "original_language": "en",
+          "original_title": "Shang-Chi and the Legend of the Ten Rings",
+          "overview": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+          "popularity": 2345.786,
+          "poster_path": "/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg",
+          "release_date": "2021-09-01",
+          "title": "Shang-Chi and the Legend of the Ten Rings",
+          "video": false,
+          "vote_average": 7.8,
+          "vote_count": 4736
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/1BqX34aJS5J8PefVnQSfQIEPfkl.jpg",
+          "genre_ids": [
+            80,
+            28,
+            53
+          ],
+          "id": 826749,
+          "original_language": "en",
+          "original_title": "Fortress",
+          "overview": "The story revolves around a top-secret resort for retired U.S. intelligence officers. A group of criminals led by Balzary breach the compound, hellbent on revenge on Robert, forcing the retired officer and his son to save the day.",
+          "popularity": 2026.84,
+          "poster_path": "/m76LAg0MchIcIW9i4yXsQPGQJJF.jpg",
+          "release_date": "2021-12-17",
+          "title": "Fortress",
+          "video": false,
+          "vote_average": 6.5,
+          "vote_count": 61
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/o76ZDm8PS9791XiuieNB93UZcRV.jpg",
+          "belongs_to_collection": null,
+          "budget": 40000000,
+          "genres": [
+            {
+              "id": 27,
+              "name": "Horror"
+            },
+            {
+              "id": 28,
+              "name": "Action"
+            },
+            {
+              "id": 878,
+              "name": "Science Fiction"
+            }
+          ],
+          "homepage": "https://www.residentevil.movie",
+          "id": 460458,
+          "imdb_id": "tt6920084",
+          "original_language": "en",
+          "original_title": "Resident Evil: Welcome to Raccoon City",
+          "overview": "Once the booming home of pharmaceutical giant Umbrella Corporation, Raccoon City is now a dying Midwestern town. The company’s exodus left the city a wasteland…with great evil brewing below the surface. When that evil is unleashed, the townspeople are forever…changed…and a small group of survivors must work together to uncover the truth behind Umbrella and make it through the night.",
+          "popularity": 10489.604,
+          "poster_path": "/6WR7wLCX0PGLhj51qyvK8MIxtT5.jpg",
+          "production_companies": [
+            {
+              "id": 47,
+              "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+              "name": "Constantin Film",
+              "origin_country": "DE"
+            },
+            {
+              "id": 13161,
+              "logo_path": null,
+              "name": "Tea Shop & Film Company",
+              "origin_country": "GB"
+            },
+            {
+              "id": 342,
+              "logo_path": null,
+              "name": "Davis Films",
+              "origin_country": "FR"
+            },
+            {
+              "id": 36109,
+              "logo_path": "/wca0Jcidf2N1KAPicYMjGoKOmYu.png",
+              "name": "The Fyzz",
+              "origin_country": "GB"
+            },
+            {
+              "id": 3287,
+              "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+              "name": "Screen Gems",
+              "origin_country": "US"
+            }
+          ],
+          "production_countries": [
+            {
+              "iso_3166_1": "FR",
+              "name": "France"
+            },
+            {
+              "iso_3166_1": "DE",
+              "name": "Germany"
+            },
+            {
+              "iso_3166_1": "GB",
+              "name": "United Kingdom"
+            },
+            {
+              "iso_3166_1": "US",
+              "name": "United States of America"
+            }
+          ],
+          "release_date": "2021-11-24",
+          "revenue": 31000000,
+          "runtime": 107,
+          "spoken_languages": [
+            {
+              "english_name": "English",
+              "iso_639_1": "en",
+              "name": "English"
+            }
+          ],
+          "status": "Released",
+          "tagline": "Witness the beginning of evil.",
+          "title": "Resident Evil: Welcome to Raccoon City",
+          "video": false,
+          "vote_average": 6.1,
+          "vote_count": 624
+        },
+        {
+          "adult": false,
+          "backdrop_path": "/hv7o3VgfsairBoQFAawgaQ4cR1m.jpg",
+          "belongs_to_collection": {
+            "id": 2344,
+            "name": "The Matrix Collection",
+            "poster_path": "/bV9qTVHTVf0gkW0j7p7M0ILD4pG.jpg",
+            "backdrop_path": "/bRm2DEgUiYciDw3myHuYFInD7la.jpg"
+          },
+          "budget": 190000000,
+          "genres": [
+            {
+              "id": 28,
+              "name": "Action"
+            },
+            {
+              "id": 878,
+              "name": "Science Fiction"
+            }
+          ],
+          "homepage": "https://www.whatisthematrix.com",
+          "id": 624860,
+          "imdb_id": "tt10838180",
+          "original_language": "en",
+          "original_title": "The Matrix Resurrections",
+          "overview": "Plagued by strange memories, Neo's life takes an unexpected turn when he finds himself back inside the Matrix.",
+          "popularity": 9707.765,
+          "poster_path": "/8c4a8kE7PizaGQQnditMmI1xbRp.jpg",
+          "production_companies": [
+            {
+              "id": 174,
+              "logo_path": "/IuAlhI9eVC9Z8UQWOIDdWRKSEJ.png",
+              "name": "Warner Bros. Pictures",
+              "origin_country": "US"
+            },
+            {
+              "id": 79,
+              "logo_path": "/tpFpsqbleCzEE2p5EgvUq6ozfCA.png",
+              "name": "Village Roadshow Pictures",
+              "origin_country": "US"
+            },
+            {
+              "id": 84764,
+              "logo_path": null,
+              "name": "Venus Castina Productions",
+              "origin_country": "US"
+            }
+          ],
+          "production_countries": [
+            {
+              "iso_3166_1": "DE",
+              "name": "Germany"
+            },
+            {
+              "iso_3166_1": "US",
+              "name": "United States of America"
+            }
+          ],
+          "release_date": "2021-12-16",
+          "revenue": 69000000,
+          "runtime": 148,
+          "spoken_languages": [
+            {
+              "english_name": "English",
+              "iso_639_1": "en",
+              "name": "English"
+            }
+          ],
+          "status": "Released",
+          "tagline": "Return to the source.",
+          "title": "The Matrix Resurrections",
+          "video": false,
+          "vote_average": 7.1,
+          "vote_count": 1536
+        }
+      ]
+    }
+  ]
+}
